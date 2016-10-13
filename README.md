@@ -1,7 +1,7 @@
 # TrumpBot
 ### Because to make a bot more stupid is to make it more Trump
 
-Okay so this project started as a challenge to learn how to build a slack chat bot in a span of four hours. It is very simple and only responds when it's being called out by name.
+Okay so this project started as a challenge to learn how to build a slack chat bot in under an hour. It is very simple and only responds when it's being called out by name.
 
 ## Source
 
