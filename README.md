@@ -11,6 +11,32 @@ Okay so this project started as a challenge to learn how to build a slack chat b
 
 So this is actually a coding challenge too and the criteria to pass is to build a simple slack chat bot.
 
+## Configuration
+
+### Obtain slack bot app token
+
+Follow the instructions on https://api.slack.com/bot-users
+Obtain an app token
+
+### Setup
+
+```
+$ git clone git@github.com:bitbyt/trumpbot.git
+
+$ cd trumpbot
+
+$ npm i
+
+```
+
+## Starting with Node.js
+
+For mac users, in your terminal, type: BOT_API_KEY=your_slack_api_key node bin/bot.js
+
+## Possible Next Steps
+
+- Add tests.
+
 ## Tech Stack
 
 * Node.js
